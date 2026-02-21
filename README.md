@@ -9,7 +9,6 @@ Este repositório reúne os materiais do projeto de sala virtual, incluindo docu
 ├── Manual do Jogo Conceitual/
 ├── Plano de aulas/
 ├── Slides/
-└── apLibelulas_salaVirtual.mbz
 ```
 
 ### Descrição das Pastas e Arquivos
@@ -44,7 +43,7 @@ Apresentações utilizadas durante as aulas ou formações:
 
 ---
 
-#### 📦 apLibelulas_salaVirtual.mbz
+#### 📦 apLibelulas_salaVirtual.mbz (somente no link do Drive)
 
 Backup do ambiente virtual (Moodle), contendo:
 
