@@ -3,13 +3,14 @@
 Este repositório reúne os materiais do projeto de sala virtual, incluindo documentação, planejamento pedagógico e recursos de apoio.
 
 ## 📁 Estrutura de Diretórios
-
 ```
 .
 ├── Manual do Jogo Conceitual/
 ├── Plano de aulas/
 ├── Slides/
 ```
+📌 Observações: Realize o download dos arquivos em PDF para garantir a visualização correta do conteúdo.
+
 
 ### Descrição das Pastas e Arquivos
 
